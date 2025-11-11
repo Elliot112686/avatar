@@ -33,5 +33,50 @@
     "id": "avtr_914466a6-2e27-4a78-941f-a376351311bc",
     "name": "Bill_Conica",
     "author": "时言 Toki Genn"
+  },
+  {
+    "id": "avtr_3461fd7e-9b77-47a1-ab35-497c5b6bb57f",
+    "name": "realistic rosy maple moth",
+    "author": "yuksss"
+  },
+  {
+    "id": "avtr_fa9a6c42-4243-42f4-93d8-547e28d6574e",
+    "name": "Cynwalker",
+    "author": "FanFurryTastic"
+  },
+  {
+    "id": "avtr_18865bb5-c0c8-4ab8-afea-f7227a66eb95",
+    "name": "B＆Wabble",
+    "author": "FaffyPancakes༒"
+  },
+  {
+    "id": "avtr_aaf93c58-cee0-4c07-93d8-60802adf3064",
+    "name": "Lopes - Cyberpunk",
+    "author": "Løpes"
+  },
+  {
+    "id": "avtr_e5c12fec-46aa-4933-9194-712fa35295b5",
+    "name": "Taidpole v1 Hand",
+    "author": "ShingenPizza"
+  },
+  {
+    "id": "avtr_dcbd891e-9187-4d21-8b84-f0f7f4f9eb71",
+    "name": "El Gato",
+    "author": "NeedNotApply"
+  },
+  {
+    "id": "avtr_de326b26-7380-47ad-831a-6117fc75e94d",
+    "name": "Chipi Chapa Cat",
+    "author": "KirbyDX"
+  },
+  {
+    "id": "avtr_79b2e8e6-3d17-4f3c-9dfa-f86a205d615c",
+    "name": "Particle Konǃ",
+    "author": "BananasaurusRex"
+  },
+  {
+    "id": "avtr_d21e497e-857b-4dc2-8117-ff3310c51ab0",
+    "name": "Beeǃ",
+    "author": "DividebyZer0"
   }
 ]
