@@ -94,5 +94,161 @@
     "id": "avtr_d21e497e-857b-4dc2-8117-ff3310c51ab0",
     "name": "Beeǃ",
     "author": "DividebyZer0"
+  },
+  {
+    "index": 17,
+    "id": "avtr_967a884a-136c-4f5a-8b5a-d3cebd20f9ee",
+    "name": "Digital Oni",
+    "author": "MikaZane"
+  },
+  {
+    "index": 18,
+    "id": "avtr_63082f6f-2c6c-472a-83c6-1f59cace7492",
+    "name": "NekoDream",
+    "author": "ShiroVRC"
+  },
+  {
+    "index": 19,
+    "id": "avtr_d2904e07-fc1c-490e-8e85-44d92b6a16ab",
+    "name": "Cosmic Wanderer",
+    "author": "VoidMaster"
+  },
+  {
+    "index": 20,
+    "id": "avtr_774eae8f-9351-47ec-b419-b3589e85201e",
+    "name": "Pumpkin Kid",
+    "author": "Zetronix"
+  },
+  {
+    "index": 21,
+    "id": "avtr_3b521662-9ae6-43ba-b17f-36a7fa185250",
+    "name": "Midnight Kitsune",
+    "author": "YoruNeko"
+  },
+  {
+    "index": 22,
+    "id": "avtr_3d466bbd-161f-4156-820b-0063817b1bfc",
+    "name": "Space Jester",
+    "author": "OrbiX"
+  },
+  {
+    "index": 23,
+    "id": "avtr_b9b95adb-6bec-4386-b791-ad1d35e41096",
+    "name": "RoseFire",
+    "author": "Lunatixx"
+  },
+  {
+    "index": 24,
+    "id": "avtr_de801ba3-4b3f-4dc9-9cf6-3e03fa45dbad",
+    "name": "Eclipse Soul",
+    "author": "RynNova"
+  },
+  {
+    "index": 25,
+    "id": "avtr_79eb17f0-28f6-4299-bb70-1a3f1d99c6fa",
+    "name": "Crimson Shard",
+    "author": "AkariFox"
+  },
+  {
+    "index": 26,
+    "id": "avtr_05e97ee8-7613-480f-98c5-52866dc72593",
+    "name": "Droid v2",
+    "author": "MechaChan"
+  },
+  {
+    "index": 27,
+    "id": "avtr_6a03863f-6e35-40f4-8562-74fe5f5a899f",
+    "name": "Spirit Child",
+    "author": "Kaizuu"
+  },
+  {
+    "index": 28,
+    "id": "avtr_ef48975f-e3e9-4f48-a6cf-7c36aa4b0ef3",
+    "name": "Dream Bouncer",
+    "author": "NovaSky"
+  },
+  {
+    "index": 29,
+    "id": "avtr_f93de9df-3993-4819-b401-dc43013b2bca",
+    "name": "Pixel Phantom",
+    "author": "Retrix"
+  },
+  {
+    "index": 30,
+    "id": "avtr_1d07ba54-6fc8-4ac8-9789-c9347476af9b",
+    "name": "Sakura Blade",
+    "author": "ItsuHana"
+  },
+  {
+    "index": 31,
+    "id": "avtr_4b003105-536f-4a89-ae22-c454d8e22205",
+    "name": "Neon Oni",
+    "author": "ToraVRC"
+  },
+  {
+    "index": 32,
+    "id": "avtr_7ebbcc2d-2ab3-43b4-b55e-1342f49baac0",
+    "name": "Fuzzy Droid",
+    "author": "GigaKuma"
+  },
+  {
+    "index": 33,
+    "id": "avtr_9f7476e8-770b-4e82-9503-875a3995a409",
+    "name": "Mocha Fairy",
+    "author": "CoffiCat"
+  },
+  {
+    "index": 34,
+    "id": "avtr_ba719ec9-af58-460b-b093-b03ff136911a",
+    "name": "Shadow Synth",
+    "author": "DeltaNine"
+  },
+  {
+    "index": 35,
+    "id": "avtr_90b0c103-a274-4e9d-ae74-7f7e7fac9415",
+    "name": "Frosted Mirage",
+    "author": "EchoSnow"
+  },
+  {
+    "index": 36,
+    "id": "avtr_e7a0b4a4-eabe-49f2-a951-742da92188a7",
+    "name": "Storm Dancer",
+    "author": "KazeRin"
+  },
+  {
+    "index": 37,
+    "id": "avtr_55c94062-06fe-4555-9d41-d42f6c4ea69c",
+    "name": "Echo Kitten",
+    "author": "TsuRei"
+  },
+  {
+    "index": 38,
+    "id": "avtr_ecf2fbdd-c55f-463a-bc7d-5901c82a1bd7",
+    "name": "Vapor Ghost",
+    "author": "NiMo"
+  },
+  {
+    "index": 39,
+    "id": "avtr_f740e4dc-0031-4aaa-8fc4-f5275af32e88",
+    "name": "Crystal Coyote",
+    "author": "ZeroHex"
+  },
+  {
+    "index": 40,
+    "id": "avtr_6f363890-32ac-470a-b90a-3f49a5e96633",
+    "name": "Galaxy Glimmer",
+    "author": "Astroluna"
+  },
+  {
+    "index": 41,
+    "id": "avtr_4a2b4a93-3ecc-49cd-8d30-715d80d763f5",
+    "name": "Lil Void",
+    "author": "Haruka"
+  },
+  {
+    "index": 42,
+    "id": "avtr_4eff9bb2-e805-4147-94e9-0f15f3b5432d",
+    "name": "Cyber Halo",
+    "author": "MonoPix"
   }
 ]
