@@ -4,14 +4,14 @@
     "id": "avtr_c3852d99-c925-4b82-be05-061538b1c96f",
     "name": "xconica",
     "author": "crimson_herring",
-    "like": 17
+    "like": 0
   },
   {
     "index": 2,
     "id": "avtr_a49ae296-9290-41cf-a7cc-897901c7d1da",
     "name": "Kitty in the Crowd",
     "author": "t00ny",
-    "like": 6
+    "like": 0
   },
   {
     "index": 3,
