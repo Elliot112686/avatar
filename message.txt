@@ -3,252 +3,294 @@
     "index": 1,
     "id": "avtr_c3852d99-c925-4b82-be05-061538b1c96f",
     "name": "xconica",
-    "author": "crimson_herring"
+    "author": "crimson_herring",
+    "like": 20
   },
   {
     "index": 2,
     "id": "avtr_a49ae296-9290-41cf-a7cc-897901c7d1da",
     "name": "Kitty in the Crowd",
-    "author": "t00ny"
+    "author": "t00ny",
+    "like": 6
   },
   {
     "index": 3,
     "id": "avtr_639874fa-9555-47f4-bfe1-a29f2a902f41",
     "name": "Clover girl_public",
-    "author": "아크네르アクネル"
+    "author": "아크네르アクネル",
+    "like": 0
   },
   {
     "index": 4,
     "id": "avtr_429ab2bf-53b4-4cf4-b49c-050fce1f6dc4",
     "name": "Cat Meme",
-    "author": "Bekosan"
+    "author": "Bekosan",
+    "like": 0
   },
   {
     "index": 5,
     "id": "avtr_3461fd7e-9b77-47a1-ab35-497c5b6bb57f",
     "name": "realistic rosy maple moth",
-    "author": "yuksss"
+    "author": "yuksss",
+    "like": 0
   },
   {
     "index": 6,
     "id": "avtr_41736927-28e7-4914-8b5c-6155c04291b4",
     "name": "akyo_fox探偵",
-    "author": "ささのき"
+    "author": "ささのき",
+    "like": 0
   },
   {
     "index": 7,
     "id": "avtr_914466a6-2e27-4a78-941f-a376351311bc",
     "name": "Bill_Conica",
-    "author": "时言 Toki Genn"
+    "author": "时言 Toki Genn",
+    "like": 0
   },
   {
     "index": 8,
     "id": "avtr_9e39e24c-25f9-4fd1-a7d7-44a154c0ff51",
     "name": "Loli Arg ≺3",
-    "author": "BraLong"
+    "author": "BraLong",
+    "like": 0
   },
   {
     "index": 9,
     "id": "avtr_fa9a6c42-4243-42f4-93d8-547e28d6574e",
     "name": "Cynwalker",
-    "author": "FanFurryTastic"
+    "author": "FanFurryTastic",
+    "like": 0
   },
   {
     "index": 10,
     "id": "avtr_18865bb5-c0c8-4ab8-afea-f7227a66eb95",
     "name": "B＆Wabble",
-    "author": "FaffyPancakes༒"
+    "author": "FaffyPancakes༒",
+    "like": 0
   },
   {
     "index": 11,
     "id": "avtr_aaf93c58-cee0-4c07-93d8-60802adf3064",
     "name": "Lopes - Cyberpunk",
-    "author": "Løpes"
+    "author": "Løpes",
+    "like": 0
   },
   {
     "index": 12,
     "id": "avtr_e5c12fec-46aa-4933-9194-712fa35295b5",
     "name": "Taidpole v1 Hand",
-    "author": "ShingenPizza"
+    "author": "ShingenPizza",
+    "like": 0
   },
   {
     "index": 13,
     "id": "avtr_dcbd891e-9187-4d21-8b84-f0f7f4f9eb71",
     "name": "El Gato",
-    "author": "NeedNotApply"
+    "author": "NeedNotApply",
+    "like": 0
   },
   {
     "index": 14,
     "id": "avtr_de326b26-7380-47ad-831a-6117fc75e94d",
     "name": "Chipi Chapa Cat",
-    "author": "KirbyDX"
+    "author": "KirbyDX",
+    "like": 0
   },
   {
     "index": 15,
     "id": "avtr_79b2e8e6-3d17-4f3c-9dfa-f86a205d615c",
     "name": "Particle Konǃ",
-    "author": "BananasaurusRex"
+    "author": "BananasaurusRex",
+    "like": 0
   },
   {
     "index": 16,
     "id": "avtr_d21e497e-857b-4dc2-8117-ff3310c51ab0",
     "name": "Beeǃ",
-    "author": "DividebyZer0"
+    "author": "DividebyZer0",
+    "like": 0
   },
   {
     "index": 17,
     "id": "avtr_967a884a-136c-4f5a-8b5a-d3cebd20f9ee",
     "name": "Digital Oni",
-    "author": "MikaZane"
+    "author": "MikaZane",
+    "like": 0
   },
   {
     "index": 18,
     "id": "avtr_63082f6f-2c6c-472a-83c6-1f59cace7492",
     "name": "NekoDream",
-    "author": "ShiroVRC"
+    "author": "ShiroVRC",
+    "like": 0
   },
   {
     "index": 19,
     "id": "avtr_d2904e07-fc1c-490e-8e85-44d92b6a16ab",
     "name": "Cosmic Wanderer",
-    "author": "VoidMaster"
+    "author": "VoidMaster",
+    "like": 0
   },
   {
     "index": 20,
     "id": "avtr_774eae8f-9351-47ec-b419-b3589e85201e",
     "name": "Pumpkin Kid",
-    "author": "Zetronix"
+    "author": "Zetronix",
+    "like": 0
   },
   {
     "index": 21,
     "id": "avtr_3b521662-9ae6-43ba-b17f-36a7fa185250",
     "name": "Midnight Kitsune",
-    "author": "YoruNeko"
+    "author": "YoruNeko",
+    "like": 0
   },
   {
     "index": 22,
     "id": "avtr_3d466bbd-161f-4156-820b-0063817b1bfc",
     "name": "Space Jester",
-    "author": "OrbiX"
+    "author": "OrbiX",
+    "like": 0
   },
   {
     "index": 23,
     "id": "avtr_b9b95adb-6bec-4386-b791-ad1d35e41096",
     "name": "RoseFire",
-    "author": "Lunatixx"
+    "author": "Lunatixx",
+    "like": 0
   },
   {
     "index": 24,
     "id": "avtr_de801ba3-4b3f-4dc9-9cf6-3e03fa45dbad",
     "name": "Eclipse Soul",
-    "author": "RynNova"
+    "author": "RynNova",
+    "like": 0
   },
   {
     "index": 25,
     "id": "avtr_79eb17f0-28f6-4299-bb70-1a3f1d99c6fa",
     "name": "Crimson Shard",
-    "author": "AkariFox"
+    "author": "AkariFox",
+    "like": 0
   },
   {
     "index": 26,
     "id": "avtr_05e97ee8-7613-480f-98c5-52866dc72593",
     "name": "Droid v2",
-    "author": "MechaChan"
+    "author": "MechaChan",
+    "like": 0
   },
   {
     "index": 27,
     "id": "avtr_6a03863f-6e35-40f4-8562-74fe5f5a899f",
     "name": "Spirit Child",
-    "author": "Kaizuu"
+    "author": "Kaizuu",
+    "like": 0
   },
   {
     "index": 28,
     "id": "avtr_ef48975f-e3e9-4f48-a6cf-7c36aa4b0ef3",
     "name": "Dream Bouncer",
-    "author": "NovaSky"
+    "author": "NovaSky",
+    "like": 0
   },
   {
     "index": 29,
     "id": "avtr_f93de9df-3993-4819-b401-dc43013b2bca",
     "name": "Pixel Phantom",
-    "author": "Retrix"
+    "author": "Retrix",
+    "like": 0
   },
   {
     "index": 30,
     "id": "avtr_1d07ba54-6fc8-4ac8-9789-c9347476af9b",
     "name": "Sakura Blade",
-    "author": "ItsuHana"
+    "author": "ItsuHana",
+    "like": 0
   },
   {
     "index": 31,
     "id": "avtr_4b003105-536f-4a89-ae22-c454d8e22205",
     "name": "Neon Oni",
-    "author": "ToraVRC"
+    "author": "ToraVRC",
+    "like": 0
   },
   {
     "index": 32,
     "id": "avtr_7ebbcc2d-2ab3-43b4-b55e-1342f49baac0",
     "name": "Fuzzy Droid",
-    "author": "GigaKuma"
+    "author": "GigaKuma",
+    "like": 0
   },
   {
     "index": 33,
     "id": "avtr_9f7476e8-770b-4e82-9503-875a3995a409",
     "name": "Mocha Fairy",
-    "author": "CoffiCat"
+    "author": "CoffiCat",
+    "like": 0
   },
   {
     "index": 34,
     "id": "avtr_ba719ec9-af58-460b-b093-b03ff136911a",
     "name": "Shadow Synth",
-    "author": "DeltaNine"
+    "author": "DeltaNine",
+    "like": 0
   },
   {
     "index": 35,
     "id": "avtr_90b0c103-a274-4e9d-ae74-7f7e7fac9415",
     "name": "Frosted Mirage",
-    "author": "EchoSnow"
+    "author": "EchoSnow",
+    "like": 0
   },
   {
     "index": 36,
     "id": "avtr_e7a0b4a4-eabe-49f2-a951-742da92188a7",
     "name": "Storm Dancer",
-    "author": "KazeRin"
+    "author": "KazeRin",
+    "like": 0
   },
   {
     "index": 37,
     "id": "avtr_55c94062-06fe-4555-9d41-d42f6c4ea69c",
     "name": "Echo Kitten",
-    "author": "TsuRei"
+    "author": "TsuRei",
+    "like": 0
   },
   {
     "index": 38,
     "id": "avtr_ecf2fbdd-c55f-463a-bc7d-5901c82a1bd7",
     "name": "Vapor Ghost",
-    "author": "NiMo"
+    "author": "NiMo",
+    "like": 0
   },
   {
     "index": 39,
     "id": "avtr_f740e4dc-0031-4aaa-8fc4-f5275af32e88",
     "name": "Crystal Coyote",
-    "author": "ZeroHex"
+    "author": "ZeroHex",
+    "like": 0
   },
   {
     "index": 40,
     "id": "avtr_6f363890-32ac-470a-b90a-3f49a5e96633",
     "name": "Galaxy Glimmer",
-    "author": "Astroluna"
+    "author": "Astroluna",
+    "like": 0
   },
   {
     "index": 41,
     "id": "avtr_4a2b4a93-3ecc-49cd-8d30-715d80d763f5",
     "name": "Lil Void",
-    "author": "Haruka"
+    "author": "Haruka",
+    "like": 0
   },
   {
     "index": 42,
     "id": "avtr_4eff9bb2-e805-4147-94e9-0f15f3b5432d",
     "name": "Cyber Halo",
-    "author": "MonoPix"
+    "author": "MonoPix",
+    "like": 0
   }
 ]
