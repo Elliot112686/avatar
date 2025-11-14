@@ -4,7 +4,7 @@
     "id": "avtr_c3852d99-c925-4b82-be05-061538b1c96f",
     "name": "xconica",
     "author": "crimson_herring",
-    "like": 20
+    "like": 17
   },
   {
     "index": 2,
